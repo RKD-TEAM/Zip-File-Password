@@ -8,4 +8,8 @@ pkg install git-y
 ```bash
 pkg install python-y
 ```bash
-git clone https://github.com/RKD-TEAM/Zip-File-Password/blob/main/zip.py
+git clone https://github.com/RKD-TEAM/Zip-File-Password
+```bash
+cd Zip-File-Password
+```bash
+python zip.py
