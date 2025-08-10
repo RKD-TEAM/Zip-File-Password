@@ -68,6 +68,7 @@ print(" Owner     : Mr.Rakibul Islam")
 print(" Github    : https://github.com/RKD-TEAM")
 print(" Facebook  : Alex Rk Khan")
 print(" Tool Name : zipfile password Crack (By Brute force)")
+print("\033[32m" + "=" * columns + "\033[1;96m")
 print("\033[31m!!!   This tool is for educational purposes only   !!!!!!   So don't use it for any illegal activities   !!!")
 print("\033[32m" + "=" * columns + "\033[0m")
 
